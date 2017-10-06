@@ -1,0 +1,50 @@
+
+.border {
+    border-style: solid;
+    border-width: 1px;
+    width: 25%;
+    padding: 25px;
+}
+
+.break {
+    height: 1px;
+    color:black;
+    background-color:black;
+}
+
+span.lbl {
+    margin: 5px 55px;
+    text-align: center;
+}
+
+#vForms {
+    border-style: solid;
+    border-width: 1px;
+    width: 75%;
+    padding: 25px;
+}
+
+.add-selector-1 {
+    margin-bottom:10px;
+    width: 275px;
+}
+
+.add-selector-2 {
+    margin-bottom:10px;
+    width: 200px;
+}
+
+.add-lbl {
+    width: 75px;
+    text-align: left;
+    float: left;
+}
+
+.add-input {
+    width: 200px;
+}
+
+.add-btn {
+    margin-top: 20px;
+    width: 100px;
+}
